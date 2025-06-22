@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment1.params=
+comment1.target=LinkedList()
+comment10.params=
+comment10.target=void\ traverse()
+comment11.params=
+comment11.target=Node\ getFirstNode()
+comment12.params=
+comment12.target=void\ displayAll()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=insertItem
+comment3.target=void\ insertAtFront(CarBooking)
+comment4.params=insertItem
+comment4.target=void\ insertAtBack(CarBooking)
+comment5.params=
+comment5.target=CarBooking\ removeFromFront()
+comment6.params=
+comment6.target=java.lang.Object\ removeFromBack()
+comment7.params=
+comment7.target=CarBooking\ getFirst()
+comment8.params=
+comment8.target=java.lang.Object\ getNext()
+comment9.params=
+comment9.target=Node\ getLastNode()
+numComments=13
